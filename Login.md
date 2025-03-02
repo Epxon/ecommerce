@@ -17,4 +17,6 @@ Primera ventana en aparecer al ejecutar el software, permitiendo a la persona el
 | verificarCredenciales | Muestra un dialog en pantalla mientras se verifican los datos |
 | mostrarImagenAleatoria | muestra imagenes cambiantes para un toque estetico |
 
+
+## Ejemplo Visual
 ![Diseño final](blob:https://web.whatsapp.com/bb929542-ece8-4ee6-b87b-6554f6228d64)
